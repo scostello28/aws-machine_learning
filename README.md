@@ -1,4 +1,4 @@
-# aws-machine_learning
+# AWS Machine Learning
 
 AWS Machine Learning Specialty Certification Notes
 
